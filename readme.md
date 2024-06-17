@@ -1,6 +1,6 @@
-# Code like a Girl 2023
+# Code like a Girl 2024
 
-Vítejte v repozitáři projektu Code Like a Girl 2023.
+Vítejte v repozitáři projektu Code Like a Girl 2024.
 
 ## Facebook
 
@@ -31,6 +31,8 @@ Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 - [PDF](docs/presentation/css/CSS_new-2.pdf)
 
 #### UX
+
+-[Power Point](docs/presentation/UX/UX_Eli_2024.pptx)
 
 ## Vaše pískoviště a projekt
 
