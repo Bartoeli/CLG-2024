@@ -22,8 +22,7 @@ Ke kterékoliv přednášce se můžete kdykoliv vrátit:
 
 #### HTML
 
-- [Power Point](docs/presentation/html/HTML.pptx)
-- [PDF](docs/presentation/html/HTML.pdf)
+- [Power Point](docs/presentation/html/HTML-2024.pptx)
 
 #### CSS
 
